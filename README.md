@@ -78,6 +78,6 @@ This dashboard is built to:
 
 ```bash
 git clone this repo
-cd your-repo-name
+cd -repo-name
 pip install -r requirements.txt
 streamlit run app.py
